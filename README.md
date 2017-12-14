@@ -87,6 +87,7 @@ Some resources possess an emoticon to help you understand which type of content 
 <!-- Viewport for responsive web design -->
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 ```
+> * 📖 [Design Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
 
 * [ ] **Title:** ![High][high_img] A title is used on all pages (SEO: Google calculates the pixel width of the characters used in the title, and it cuts off between 472 and 482 pixels. The average character limit would be around 55-characters).
 
